@@ -8,9 +8,11 @@ Add new Alfred Snippet using
 multi-line works  
 keywords with spaces too
 
+
+Based on New Snippet Workflow from Milo (rmvgavan)    
+[http://www.alfredforum.com/topic/3119-create-new-snippet/](http://www.alfredforum.com/topic/3119-create-new-snippet/)
+  
 --
-
-
 
 ### Examples
 
