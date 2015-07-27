@@ -42,6 +42,8 @@ If this yields more than one result:
 	find ~ -name 'snippets.alfdb' -exec stat {} \;
 	
 
-and use the last modified one.
+and use the last modified one.  
 
-Next you can change the delimiter (default is colon). Note that this character can appear in the snippet itself, not a problem. Just click the middle item of the tier and change DLM to the desired character (surrounded by single quotes).
+--
+
+You can also change the delimiter (default is colon). Note that this character can appear in the snippet itself, not a problem. Just click the middle item of the tier and change DLM to the desired character (surrounded by single quotes).
